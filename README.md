@@ -9,4 +9,4 @@ Dataset folder includes all the data of the experiment in this paper, separated 
 Code folder includes:
 - Jupyter notebook for sequence embedding: Sequence embedding.ipynb
 - Folder for traditional feature extraction: Traditional feature extraction
-- Jupyter notebook for stacking model : Model.ipynb
+- Folder for perdition : Model perdition
