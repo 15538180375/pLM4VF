@@ -8,5 +8,5 @@ Dataset folder includes all the data of the experiment in this paper, separated 
 
 Code folder includes:
 - Jupyter notebook for sequence embedding: Sequence embedding.ipynb
-- Jupyter notebook for traditional feature extraction: Feature extraction.ipynb
-- pretrained model using only training data: pLM4VF(G+)_model.pkl and pLM4VF(G-)_model.pkl
+- Folder for traditional feature extraction: Feature extraction
+- Jupyter notebook for stacking model : Model.ipynb
