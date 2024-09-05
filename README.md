@@ -9,4 +9,4 @@ Dataset folder includes all the data of the experiment in this paper, separated 
 Code folder includes:
 - Jupyter notebook for sequence embedding: Sequence embedding.ipynb
 - Folder for traditional feature extraction: Traditional feature extraction
-- Folder for perdition : Model perdition
+- Jupyter notebook for fusing pLM4VF model for classification: pLM4VF.ipynb
